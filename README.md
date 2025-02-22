@@ -63,9 +63,3 @@ python client.py 127.0.0.1 -p 1060
 - Support encrypted communication
 - Improve UI design
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-Developed by **duyle1062**
-
